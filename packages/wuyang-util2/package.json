@@ -1,5 +1,5 @@
 {
-  "name": "@wuyang/util2",
+  "name": "@wuyangwang/util2",
   "version": "1.2.0",
   "description": "",
   "main": "dist/index.cjs.js",
@@ -27,5 +27,6 @@
     "ts-jest": "^26.4.4",
     "tslib": "^2.0.3",
     "typescript": "^4.1.2"
-  }
+  },
+  "gitHead": "540e1f6c141254c9d6061b04a10d463dc702b52a"
 }

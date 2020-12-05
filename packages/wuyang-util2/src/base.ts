@@ -5,3 +5,7 @@
 export function isColor(value: string): boolean {
   return /^#([0-9a-fA-F]{6}|[0-9a-fA-F]{3})$/.test(value);
 }
+
+export function isTest() {
+  return true;
+}

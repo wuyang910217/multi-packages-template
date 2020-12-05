@@ -7,5 +7,5 @@ export function isColor(value: string): boolean {
 }
 
 export function isTest() {
-  return true;
+  return false;
 }

@@ -16,3 +16,7 @@ export function isValidPhone(phone: string): boolean {
   }
   return /^1[2-9]\d{9}$/.test(phone);
 }
+
+export function isTest() {
+  return true;
+}

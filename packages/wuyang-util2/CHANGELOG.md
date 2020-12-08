@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/wuyang910217/multi-packages-template/compare/@wuyangwang/util2@1.3.0...@wuyangwang/util2@1.3.1) (2020-12-08)
+
+
+### Bug Fixes
+
+* 指定types ([e72877c](https://github.com/wuyang910217/multi-packages-template/commit/e72877c4d008928456135333fa4c9f70c846a180))
+
+
+
+
+
 # 1.3.0 (2020-12-05)
 
 
